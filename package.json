@@ -1,0 +1,11 @@
+{
+  "name": "fastify-error",
+  "author": "artem@vrnet.io",
+  "dependencies": {
+    "fastify": "^2.11.0",
+    "fastify-static": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.3"
+  }
+}
