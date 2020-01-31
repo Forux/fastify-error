@@ -1,9 +1,12 @@
 # fastify-error
 Error example in fastify
 
+```js
 npm i
-
+```
+```js
 node server.js
+```
 
 in browser open:
 1. http://localhost:4010/test.txt
