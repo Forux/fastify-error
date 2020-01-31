@@ -2,6 +2,7 @@
 Error example in fastify
 
 npm i
+
 node server.js
 
 in browser open:
